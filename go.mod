@@ -1,4 +1,4 @@
-module github.com/zencoder/go-smile
+module github.com/brightcove/playback_go-smile
 
 go 1.14
 
