@@ -5,8 +5,8 @@ import (
 	"testing"
 
 	"github.com/stretchr/testify/require"
-	"github.com/zencoder/go-smile/smile"
-	"github.com/zencoder/go-smile/test/testdata"
+	"github.com/brightcove/playback_go-smile/smile"
+	"github.com/brightcove/playback_go-smile/test/testdata"
 )
 
 func TestDecode(t *testing.T) {

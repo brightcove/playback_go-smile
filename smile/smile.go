@@ -3,8 +3,8 @@ package smile
 import (
 	"encoding/json"
 
-	"github.com/zencoder/go-smile/decode"
-	"github.com/zencoder/go-smile/domain"
+	"github.com/brightcove/playback_go-smile/decode"
+	"github.com/brightcove/playback_go-smile/domain"
 )
 
 func DecodeToJSON(smile []byte) (string, error) {
